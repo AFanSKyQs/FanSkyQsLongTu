@@ -7,12 +7,12 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="32%" ><a href="https://github.com/AFanSKyQs"><br /><sub><b>L图<br>51张</b></sub></a><br /><a href="https://github.com/AFanSKyQs/FanSky_Qs_Img/tree/main/LongTu" title="img"></a></td>
-      <td align="center" valign="top" width="32%"><a href="https://github.com/AFanSKyQs"><br /><sub><b>D图<br>194张</b></sub></a><br /><a href="https://github.com/AFanSKyQs/FanSky_Qs/commits?author=AFanSKyQs" title="img"></a></td>
+     </td>
       </tr>
   </tbody>
 </table>
 <!-- ![](https://komarev.com/ghpvc/?username=AFanSKyQs) -->
-<br><img src="https://count.getloli.com/get/@:fansky_qs?theme=asoul" /> <br>
+<br>
 
 [![AFanSKyQs](https://img.shields.io/badge/GitHub_AFanSKyQs-yellowgreen?logo=github)](https://github.com/AFanSKyQs)
 [![Discord](https://img.shields.io/badge/Discord_FanSky_Qo-blueviolet?logo=discord)](https://twitter.com/lilianlee90/)
